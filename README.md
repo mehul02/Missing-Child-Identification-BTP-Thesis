@@ -23,4 +23,4 @@ Otherwise if you want to search you get this UI
 Then you can find the coordinates as well as other information.
 
 ![](images/img5.PNG)
-![](images/img7.PNG)
+![](images/img7.png)
